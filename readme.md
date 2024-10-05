@@ -18,7 +18,7 @@ This image shows the following scraped data:
 2. **Product URL**
 3. **Product Name and Price**
 
-![Image 1](.\Assets\Home%20Page%20Scrap.png)
+![Image 1](./Assets/Home%20Page%20Scrap.png)
 
 ---
 
