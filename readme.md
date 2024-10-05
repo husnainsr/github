@@ -18,7 +18,7 @@ This image shows the following scraped data:
 2. **Product URL**
 3. **Product Name and Price**
 
-![Image 1](./Assets/Home%20Page%20Scrap.png)
+![Image 1](Assets/Home%20Page%20Scrap.png)
 
 ---
 
@@ -28,8 +28,8 @@ This image demonstrates the ability to scrape:
 1. **Multiple images** of each product
 2. **Pricing information** for each product variation (e.g., different colors)
 
-![Image 2](.\Assets\Product%20Page.png)
-![Image 4](.\Assets\Product%20info.png)
+![Image 2](Assets/Product%20Page.png)
+![Image 4](Assets/Product%20info.png)
 
 ---
 
@@ -39,9 +39,9 @@ This image includes:
 1. **Total number of reviews** available for the product
 2. Scraped **500+ reviews** for each product
 
-![Image 3](.\Assets\Reveiw%20Page.png)
-![Image 6](.\Assets\Reveiews.png)
-![Image 5](.\Assets\sql.png)
+![Image 3](Assets/Reveiw%20Page.png)
+![Image 6](Assets/Reveiews.png)
+![Image 5](Assets/sql.png)
 
 
 ---
